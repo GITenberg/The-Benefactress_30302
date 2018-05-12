@@ -1,0 +1,34 @@
+_repo: The-Benefactress_30302
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30302-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    - Cholmondeley, Alice
+    - Beauchamp, Mary Annette
+    - Arnim, Elizabeth von
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: ''
+gutenberg_issued: '2009-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30302'
+  lccn: 01025678
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Benefactress
+url: http://www.gutenberg.org/ebooks/30302
